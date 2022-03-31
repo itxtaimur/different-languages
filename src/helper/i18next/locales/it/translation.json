@@ -1,0 +1,147 @@
+{
+  "Login.SignIn": "Sign In",
+  "Login.Username": "username",
+  "Login.Password": "password",
+  "Login.Provide": "Please provide ",
+  "Login.ForgotPassword": "Forgot Password",
+  "Login.Or": "OR",
+  "Login.LoginWindows": "Login with Windows",
+  "Login.LoginSAML": "Login with SAML",
+
+
+  "Navigation.Home": "Casa",
+  "Navigation.MyTickets": "I miei biglietti",
+  "Navigation.PendingApprovals": "In attesa di approvazioni",
+  "Navigation.Surveys": "Sondaggi",
+  "Navigation.SystemAlerts": "Avvisi di sistema",
+  "Navigation.Announcements": "Annunci",
+  "Navigation.LinkedCi": "Elementi CI collegati",
+  "Navigation.ComAround": "ComAround",
+  "Navigation.Incident": "Incidente",
+  "Navigation.KnowledgeArticles": "Articoli della conoscenza",
+  "Navigation.SoftwareCatalog":"Catalogo software",
+
+  "Header.Welcome": "Benvenuto a",
+  "Header.Portal": "Portale self-service",
+  "Header.HelpfulArticles": "Articoli utili",
+  "Header.MayHelp": "Come possiamo aiutarti",
+  "Header.SubmitRequest": "Inviare la richiesta",
+
+
+  "HeaderDropdown.Profile": "Profilo",
+  "HeaderDropdown.Language": "linguaggio",
+  "HeaderDropdown.LanguageEng": "Inglese",
+  "HeaderDropdown.LanguageGer": "Tedesca",
+  "HeaderDropdown.LanguageFre": "francese",
+  "HeaderDropdown.LanguageDan": "danese",
+  "HeaderDropdown.LanguageEst": "Estone",
+  "HeaderDropdown.LanguageIta": "Italiana",
+  "HeaderDropdown.LanguagePor": "Portugues",
+  "HeaderDropdown.LanguageSwe": "svedese",
+  "HeaderDropdown.LanguageFni": "finlandese",
+  "HeaderDropdown.Logout": "Disconnettersi",
+
+
+  "Dashboard.MyItems": "I MIEI ARTICOLI",
+  "Dashboard.SeeAll": "Vedi tutto",
+  "Dashboard.OpenTickets": "Biglietti aperti",
+  "Dashboard.MyOpenTickets": "I miei biglietti aperti",
+  "Dashboard.CloseTickets": "Chiudi biglietti",
+
+
+  "TicketFilters.All": "Tutte",
+  "TicketFilters.OpenTickets": "Biglietti aperti",
+  "TicketFilters.Closed": "Chiusa",
+  "TicketFilters.Assigned": "Assegnato",
+  "TicketFilters.InProgress": "In corso",
+  "TicketFilters.New": "Nuova",
+  "TicketFilters.Pending": "in attesa di",
+  "TicketFilters.Reopened": "Riaperto",
+  "TicketFilters.Resolved": "Risolta",
+  "TicketFilters.NoFound": "Nessun biglietto trovato",
+
+
+  "SubmitRequest.NetworkAccount": "Nuovo account di rete",
+  "SubmitRequest.EmployeeSetup": "Configurazione di un nuovo dipendente",
+  "SubmitRequest.DesktopPrinter": "Richiedi stampante desktop",
+  "SubmitRequest.NewMailbox": "Richiedi nuova casella di posta",
+
+
+  "CommonStrings.CreateTicket": "Crea biglietto",
+  "CommonStrings.Cancel": "Annulla",
+  "CommonStrings.Submit": "Invia",
+  "CommonStrings.Select": "Selezionare",
+  "CommonStrings.Refresh": "Aggiorna, riprova",
+  "CommonStrings.ModalSubject": "Soggetta",
+  "CommonStrings.ModalStatus": "Stato",
+  "CommonStrings.ModalComments": "Commenti",
+  "CommonStrings.TicketNo": "Biglietto n",
+  "CommonStrings.Type": "genere",
+  "CommonStrings.ShortDescription": "breve descrizione",
+  "CommonStrings.Classification": "Classificazione",
+  "CommonStrings.Description": "Descrizione",
+  "CommonStrings.CreatedDateTime": "Data e ora di creazione",
+  "CommonStrings.AssignedTo": "Assegnato a",
+  "CommonStrings.ChangeRequestID": "Modifica ID richiesta",
+  "CommonStrings.RequestorName": "Nome del richiedente",
+  "CommonStrings.ProsposedStartDateTime": "Data e ora di inizio proposte",
+  "CommonStrings.ProsposedEndDateTime": "Data e ora di fine proposte",
+  "CommonStrings.ArticleID": "ID articolo",
+  "CommonStrings.Title": "Titolo",
+  "CommonStrings.CreatedBy": "Creato da",
+  "CommonStrings.ApprovalID": "ID approvazione",
+  "CommonStrings.Deadline": "Scadenza",
+  "CommonStrings.Details": "Dettagli",
+
+
+  "MyTickets.Attachments": "Allegati",
+  "MyTickets.NoAttachmentsFound": "Nessun allegato trovato",
+  "MyTickets.WithDraw": "Ritira il biglietto",
+  "MyTickets.Ticketwithdrawn": "Il biglietto è stato ritirato",
+  "MyTickets.WriteDescription": "Scrivi qui la descrizione",
+  "MyTickets.MakeCommnet": "Fai un commento",
+  "MyTickets.NextTicket": "Biglietto successivo",
+
+
+  "Approvals.ApprovalInformation": "Informazioni sull'approvazione", 
+  "Approvals.ApproveBtn": "Approvare", 
+  "Approvals.DenyBtn": "Negare", 
+  "Approvals.NextApproval": "Prossima approvazione", 
+
+
+  "Surveys.NextSurvey": "Prossimo sondaggio",  
+  "Surveys.ProvideFeedback": "Si prega di fornire un feedback",  
+
+
+  "SystemAlerts.WorkAround": "Lavora",
+  "SystemAlerts.Resolution": "Risoluzione",
+  "SystemAlerts.AffectsMeTOO": "Colpisce anche me",
+  "SystemAlerts.NextAlert": "Avviso successivo",
+
+
+  "Announcement.ModalNextAnnouncement": "Annuncio successivo",
+
+
+  "LinkedCI.Heading": "ARTICOLI CI",
+  "LinkedCI.NextLinked": "Elemento collegato successivo",
+
+
+  "ComAround.ArticlePopular": "Più popolare",
+  "ComAround.ArticleNews": "notizia",
+  "ComAround.WasArticleHelpful": "Questo articolo è stato utile",
+  "ComAround.YesButton": "sì",
+  "ComAround.NoButton": "No",
+  "ComAround.NextArticle": "Articolo successivo",
+  "ComAround.ModalReasonHeading": "L'articolo non mi ha aiutato perché",
+  "ComAround.ModalReason": "Per favore scegli il motivo",
+  "ComAround.ModalReasonVal1": "Il contenuto non fornisce un risultato atteso",
+  "ComAround.ModalReasonVal2": "Non capisco il contenuto",
+  "ComAround.ModalReasonVal3": "mancano le informazioni",
+  "ComAround.ModalReasonTitle": "Titolo",
+  "ComAround.ModalReasonEmail": "E-mail",
+  "ComAround.ModalReasonFeedback": "Feedback",
+  "ComAround.ModalReasonError": "Seleziona il motivo",
+  "ComAround.ModalReasonTitleError": "Si prega di inserire il titolo",
+  "ComAround.ModalReasonEmailError": "Inserisci un indirizzo e-mail valido",
+  "ComAround.ModalReasonFeedbackError": "Fornire un feedback"
+}

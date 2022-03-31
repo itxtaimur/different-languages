@@ -1,0 +1,152 @@
+{
+  "Login.SignIn": "Sign In",
+  "Login.Username": "username",
+  "Login.Password": "password",
+  "Login.Provide": "Please provide ",
+  "Login.ForgotPassword": "Forgot Password",
+  "Login.Or": "OR",
+  "Login.LoginWindows": "Login with Windows",
+  "Login.LoginSAML": "Login with SAML",
+
+
+  "Navigation.Home": "Casa",
+  "Navigation.MyTickets": " Mis entradas",
+  "Navigation.PendingApprovals": "Aprobaciones pendientes",
+  "Navigation.Surveys": "Encuestas",
+  "Navigation.SystemAlerts": "Alertas del sistema",
+  "Navigation.Announcements": "Anuncios",
+  "Navigation.LinkedCi": "CI vinculado",
+  "Navigation.ComAround": "ComAround",
+  "Navigation.Incident": "Incidente",
+  "Navigation.KnowledgeArticles": "Artículos de conocimiento",
+  "Navigation.SoftwareCatalog":"Catálogo de software",
+
+
+  "Header.Welcome": "Bem-vindo ao",
+  "Header.Portal": "Portal de autoatendimento",
+  "Header.HelpfulArticles": "Artículos útiles",
+  "Header.MayHelp": "Puede ayudar",
+  "Header.SubmitRequest": "Enviar peticion",
+
+
+  "HeaderDropdown.Profile": "Perfil",
+  "HeaderDropdown.Language": "Idioma",
+  "HeaderDropdown.LanguageEng": "Inglês",
+  "HeaderDropdown.LanguageGer": "Alemão",
+  "HeaderDropdown.LanguageFre": "Francesa",
+  "HeaderDropdown.LanguageDan": "dinamarquês",
+  "HeaderDropdown.LanguageEst": "Estoniano",
+  "HeaderDropdown.LanguageIta": "Italiano",
+  "HeaderDropdown.LanguagePor": "Portugues",
+  "HeaderDropdown.LanguageSwe": "Sueco",
+  "HeaderDropdown.LanguageFni": "Finlandesa",
+  "HeaderDropdown.Logout": "Cerrar sesión",
+
+
+  "Dashboard.MyItems": "Mis cosas",
+  "Dashboard.SeeAll": "Ver todo",
+  "Dashboard.OpenTickets": "OpenTickets",
+  "Dashboard.MyOpenTickets": "MyOpenTickets",
+  "Dashboard.CloseTickets": "Cerrar ticket",
+
+
+  "TicketFilters.All": "Todas",
+  "TicketFilters.OpenTickets": "Ingressos abertos",
+  "TicketFilters.Closed": "Cerrado",
+  "TicketFilters.Assigned": "Asignado",
+  "TicketFilters.InProgress": "En progreso",
+  "TicketFilters.New": "Nuevo",
+  "TicketFilters.Pending": "Pendiente",
+  "TicketFilters.Reopened": "Reabierto",
+  "TicketFilters.Resolved": "Resuelto",
+  "TicketFilters.NoFound": "No encontrado",
+
+
+  "SubmitRequest.NetworkAccount": "Cuenta de red",
+  "SubmitRequest.EmployeeSetup": "Configuración de empleados",
+  "SubmitRequest.DesktopPrinter": "Impresora de escritorio",
+  "SubmitRequest.NewMailbox": "Nuevo buzón de correo",
+  "SubmitRequest.Mailbox": "Buzón",
+  "SubmitRequest.Printer": "Impresor",
+  "SubmitRequest.Account": "Cuenta",
+  "SubmitRequest.Network": "Red",
+
+
+  "CommonStrings.CreateTicket": "Crear Ticket",
+  "CommonStrings.Cancel": "Cancelar",
+  "CommonStrings.Submit": "Enviar",
+  "CommonStrings.Select": "Seleccione",
+  "CommonStrings.Refresh": "Actualizar",
+  "CommonStrings.ModalSubject": "Asunto modal",
+  "CommonStrings.ModalStatus": "Estado modal",
+  "CommonStrings.ModalComments": "Comentarios modales",
+  "CommonStrings.TicketNo": "Ticket No",
+  "CommonStrings.Type": "Tipo",
+  "CommonStrings.ShortDescription": "Breve descripción",
+  "CommonStrings.Classification": "Clasificación",
+  "CommonStrings.Description": "Descripción",
+  "CommonStrings.CreatedDateTime": "Fecha de creación Hora",
+  "CommonStrings.AssignedTo": "Asignado a",
+  "CommonStrings.ChangeRequestID": "ID de solicitud de cambio",
+  "CommonStrings.RequestorName": "Nombre del solicitante",
+  "CommonStrings.ProsposedStartDateTime": "Fecha de inicio propuesta Hora",
+  "CommonStrings.ProsposedEndDateTime": "Fecha de finalización propuesta Hora",
+  "CommonStrings.ArticleID": "ID del artículo",
+  "CommonStrings.Title": "Título",
+  "CommonStrings.CreatedBy": "Creado por",
+  "CommonStrings.ApprovalID": "AprobaciónID",
+  "CommonStrings.Deadline": "Fecha límite",
+  "CommonStrings.Details": "Detalles",
+
+
+  "MyTickets.Attachments": "Archivos adjuntos",
+  "MyTickets.NoAttachmentsFound": "No se encontraron archivos adjuntos",
+  "MyTickets.WithDraw": "Retirar",
+  "MyTickets.Ticketwithdrawn": "Boleto retirado",
+  "MyTickets.WriteDescription": "Escribir descripción",
+  "MyTickets.MakeCommnet": "Hacer Commnet",
+  "MyTickets.NextTicket": "Entrada siguiente",
+
+
+  "Approvals.ApprovalInformation": "Información de aprobación", 
+  "Approvals.ApproveBtn": "Aprobar Btn", 
+  "Approvals.DenyBtn": "Denegar Btn", 
+  "Approvals.NextApproval": "Siguiente aprobación", 
+
+
+  "Surveys.NextSurvey": "Siguiente encuesta",  
+  "Surveys.ProvideFeedback": "Suministre realimentación",  
+
+
+  "SystemAlerts.WorkAround": "Solución alterna",
+  "SystemAlerts.Resolution": "Resolución",
+  "SystemAlerts.AffectsMeTOO": "Me afecta demasiado",
+  "SystemAlerts.NextAlert": "Alerta siguiente",
+
+
+  "Announcement.ModalNextAnnouncement": "Siguiente anuncio modal",
+
+
+  "LinkedCI.Heading": "Bóveda",
+  "LinkedCI.NextLinked": "Siguiente vinculado",
+
+
+  "ComAround.ArticlePopular": "Artículo popular",
+  "ComAround.ArticleNews": "Noticias del artículo",
+  "ComAround.WasArticleHelpful": "¿Fue útil el artículo?",
+  "ComAround.YesButton": "si",
+  "ComAround.NoButton": "No",
+  "ComAround.NextArticle": "Artículo siguiente",
+  "ComAround.ModalReasonHeading": "Encabezado de motivo modal",
+  "ComAround.ModalReason": "Razón modal",
+  "ComAround.ModalReasonVal1": "O conteúdo não dá o resultado esperado",
+  "ComAround.ModalReasonVal2": "Não entendo o conteúdo",
+  "ComAround.ModalReasonVal3": "falta informação",
+  "ComAround.ModalReasonTitle": "Título",
+  "ComAround.ModalReasonEmail": "O email",
+  "ComAround.ModalReasonFeedback": "Retroalimentación de motivo modal",
+  "ComAround.ModalReasonError": "Error de motivo modal",
+  "ComAround.ModalReasonTitleError": "Error de título de motivo modal",
+  "ComAround.ModalReasonEmailError": "Error de correo electrónico de motivo modal",
+  "ComAround.ModalReasonFeedbackError": "Error de retroalimentación de motivo modal"
+}

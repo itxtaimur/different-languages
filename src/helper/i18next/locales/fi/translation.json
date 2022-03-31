@@ -1,0 +1,149 @@
+{
+  "Login.SignIn": "Kirjaudu sisään",
+  "Login.Username": "käyttäjänimi",
+  "Login.Password": "Salasana",
+  "Login.Provide": "Toimita ",
+  "Login.ForgotPassword": "Unohtuiko salasana",
+  "Login.Or": "TAI",
+  "Login.LoginWindows": "Kirjaudu sisään Windowsilla",
+  "Login.LoginSAML": "Kirjaudu sisään SAML: llä",
+
+
+  "Navigation.Home": "Koti",
+  "Navigation.MyTickets": "Omat liput",
+  "Navigation.PendingApprovals": "Odottaa hyväksyntää",
+  "Navigation.Surveys": "Kyselyt",
+  "Navigation.SystemAlerts": "Järjestelmän hälytykset",
+  "Navigation.Announcements": "Ilmoitukset",
+  "Navigation.LinkedCi": "Linkitetyt CI-kohteet",
+  "Navigation.ComAround": "Lähes",
+  "Navigation.Incident": "Tapaus",
+  "Navigation.KnowledgeArticles":"Tietoartikkelit",
+  "Navigation.SoftwareCatalog":"Ohjelmistoluettelo",
+
+
+  "Header.Welcome": "Tervetuloa",
+  "Header.Portal": "Itsepalveluportaali",
+  "Header.HelpfulArticles": "Hyödyllisiä artikkeleita",
+  "Header.MayHelp": "Kuinka voimme auttaa sinua",
+  "Header.SubmitRequest": "Lähetä pyyntö",
+
+
+  "HeaderDropdown.Profile": "Profiili",
+  "HeaderDropdown.Language": "Kieli",
+  "HeaderDropdown.LanguageEng": "Englanti",
+  "HeaderDropdown.LanguageGer": "Saksan kieli",
+  "HeaderDropdown.LanguageFre": "Ranskan kieli",
+  "HeaderDropdown.LanguageDan": "Tanskan kieli",
+  "HeaderDropdown.LanguageEst": "Virolainen",
+  "HeaderDropdown.LanguageIta": "italialainen",
+  "HeaderDropdown.LanguagePor": "Portugalit",
+  "HeaderDropdown.LanguageSwe": "Ruotsin kieli",
+  "HeaderDropdown.LanguageFni": "Suomalainen",
+  "HeaderDropdown.Logout": "Kirjautua ulos",
+
+
+  "Dashboard.MyItems": "OMA TAVARAT",
+  "Dashboard.SeeAll": "Näytä kaikki",
+  "Dashboard.OpenTickets": "Avaa liput",
+  "Dashboard.MyOpenTickets": "Omat avoimet liput",
+  "Dashboard.CloseTickets": "Sulje liput",
+
+
+  "TicketFilters.All": "Kaikki",
+  "TicketFilters.OpenTickets": "Avaa liput",
+  "TicketFilters.Closed": "Suljettu",
+  "TicketFilters.Assigned": "Määrätty",
+  "TicketFilters.InProgress": "Meneillään",
+  "TicketFilters.New": "Uusi",
+  "TicketFilters.Pending": "Odottaa",
+  "TicketFilters.Reopened": "Avattu uudelleen",
+  "TicketFilters.Resolved": "Ratkaistu",
+  "TicketFilters.NoFound": "Lippuja ei löytynyt",
+
+
+  "SubmitRequest.NetworkAccount": "Uusi verkkotili",
+  "SubmitRequest.EmployeeSetup": "Uuden työntekijän määritys",
+  "SubmitRequest.DesktopPrinter": "Pyydä pöytätulostinta",
+  "SubmitRequest.NewMailbox": "Pyydä uutta postilaatikkoa",
+
+
+
+  "CommonStrings.CreateTicket": "Luo lippu",
+  "CommonStrings.Cancel": "Peruuttaa",
+  "CommonStrings.Submit": "Lähetä",
+  "CommonStrings.Select": "Valitse",
+  "CommonStrings.Refresh": "Päivitä Yritä uudelleen",
+  "CommonStrings.ModalSubject": "Aihe",
+  "CommonStrings.ModalStatus": "Tila",
+  "CommonStrings.ModalComments": "Kommentit",
+  "CommonStrings.TicketNo": "Lippunumero",
+  "CommonStrings.Type": "Tyyppi",
+  "CommonStrings.ShortDescription": "Lyhyt kuvaus",
+  "CommonStrings.Classification": "Luokittelu",
+  "CommonStrings.Description": "Kuvaus",
+  "CommonStrings.CreatedDateTime": "Luotu päivämäärä ja aika",
+  "CommonStrings.AssignedTo": "Määritetty",
+  "CommonStrings.ChangeRequestID": "Muuta pyynnön tunnusta",
+  "CommonStrings.RequestorName": "Pyynnön esittäjän nimi",
+  "CommonStrings.ProsposedStartDateTime": "Ehdotettu aloituspäivä ja -aika",
+  "CommonStrings.ProsposedEndDateTime": "Ehdotettu lopetuspäivä ja -aika",
+  "CommonStrings.ArticleID": "Artikkelin tunnus",
+  "CommonStrings.Title": "Otsikko",
+  "CommonStrings.CreatedBy": "Luonut",
+  "CommonStrings.ApprovalID": "Hyväksyntätunnus",
+  "CommonStrings.Deadline": "Takaraja",
+  "CommonStrings.Details": "Yksityiskohdat",
+
+
+  "MyTickets.Attachments": "Liitteet",
+  "MyTickets.NoAttachmentsFound": "Liitteitä ei löytynyt",
+  "MyTickets.WithDraw": "Nosta lippu",
+  "MyTickets.Ticketwithdrawn": "Lippu on peruutettu",
+  "MyTickets.WriteDescription": "Kirjoita kuvaus tähän",
+  "MyTickets.MakeCommnet": "Kirjoita kommentti",
+  "MyTickets.NextTicket": "Seuraava lippu",
+
+
+  "Approvals.ApprovalInformation": "Hyväksynnän tiedot", 
+  "Approvals.ApproveBtn": "Hyväksyä", 
+  "Approvals.DenyBtn": "Kieltää", 
+  "Approvals.NextApproval": "Seuraava hyväksyntä", 
+
+
+  "Surveys.NextSurvey": "Next Survey",  
+  "Surveys.ProvideFeedback": "Anna palautetta",  
+
+
+  "SystemAlerts.WorkAround": "Kiertää",
+  "SystemAlerts.Resolution": "Resoluutio",
+  "SystemAlerts.AffectsMeTOO": "Vaikuttaa minäkin",
+  "SystemAlerts.NextAlert": "Seuraava hälytys",
+
+
+  "Announcement.ModalNextAnnouncement": "Seuraava ilmoitus",
+
+
+  "LinkedCI.Heading": "CI-TUOTTEET",
+  "LinkedCI.NextLinked": "Seuraava linkitetty kohde",
+
+
+  "ComAround.ArticlePopular": "Suosituin",
+  "ComAround.ArticleNews": "Uutiset",
+  "ComAround.WasArticleHelpful": "Oliko tästä artikkelista hyötyä",
+  "ComAround.YesButton": "Joo",
+  "ComAround.NoButton": "Ei",
+  "ComAround.NextArticle": "Seuraava artikkeli",
+  "ComAround.ModalReasonHeading": "Artikkeli ei auttanut minua, koska",
+  "ComAround.ModalReason": "Valitse syy",
+  "ComAround.ModalReasonVal1": "Sisältö ei anna odotettua tulosta",
+  "ComAround.ModalReasonVal2": "En ymmärrä sisältöä",
+  "ComAround.ModalReasonVal3": "tiedot puuttuvat",
+  "ComAround.ModalReasonTitle": "Otsikko",
+  "ComAround.ModalReasonEmail": "Sähköposti",
+  "ComAround.ModalReasonFeedback": "Palaute",
+  "ComAround.ModalReasonError": "Valitse syy",
+  "ComAround.ModalReasonTitleError": "Anna otsikko",
+  "ComAround.ModalReasonEmailError": "Anna kelvollinen sähköpostiosoite",
+  "ComAround.ModalReasonFeedbackError": "Antaa palautetta"
+}

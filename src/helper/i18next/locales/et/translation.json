@@ -1,0 +1,149 @@
+{
+  "Login.SignIn": "Logi sisse",
+  "Login.Username": "kasutajanimi",
+  "Login.Password": "parool",
+  "Login.Provide": "Palun esitage ",
+  "Login.ForgotPassword": "Unustasid parooli",
+  "Login.Or": "VÕI",
+  "Login.LoginWindows": "Logige sisse Windowsiga",
+  "Login.LoginSAML": "Logi sisse SAML-iga",
+
+
+  "Navigation.Home": "Kodu",
+  "Navigation.MyTickets": "Minu piletid",
+  "Navigation.PendingApprovals": "Ootel kinnitused",
+  "Navigation.Surveys": "Uuringud",
+  "Navigation.SystemAlerts": "Süsteemi hoiatused",
+  "Navigation.Announcements": "Teated",
+  "Navigation.LinkedCi": "Lingitud CI-üksused",
+  "Navigation.ComAround": "Ümberringi",
+  "Navigation.Incident": "Intsident",
+  "Navigation.KnowledgeArticles": "Articles de connaissances",
+  "Navigation.SoftwareCatalog":"Tarkvara kataloog",
+  
+
+
+  "Header.Welcome": "Tere tulemast",
+  "Header.Portal": "Iseteenindusportaal",
+  "Header.HelpfulArticles": "Kasulikud artiklid",
+  "Header.MayHelp": "Kuidas saaksime teid aidata",
+  "Header.SubmitRequest": "Esita taotlus",
+
+
+  "HeaderDropdown.Profile": "Profiil",
+  "HeaderDropdown.Language": "Keel",
+  "HeaderDropdown.LanguageEng": "Inglise",
+  "HeaderDropdown.LanguageGer": "Saksa keel",
+  "HeaderDropdown.LanguageFre": "Prantsuse keel",
+  "HeaderDropdown.LanguageDan": "Taani keel",
+  "HeaderDropdown.LanguageEst": "Eestlane",
+  "HeaderDropdown.LanguageIta": "Itaalia keel",
+  "HeaderDropdown.LanguagePor": "Portugallased",
+  "HeaderDropdown.LanguageSwe": "Rootsi keel",
+  "HeaderDropdown.LanguageFni": "Soome keel",
+  "HeaderDropdown.Logout": "Logi välja",
+
+
+  "Dashboard.MyItems": "MINU PUNKTID",
+  "Dashboard.SeeAll": "Vaata kõiki",
+  "Dashboard.OpenTickets": "Avage piletid",
+  "Dashboard.MyOpenTickets": "Minu avatud piletid",
+  "Dashboard.CloseTickets": "Sulgege piletid",
+
+
+  "TicketFilters.All": "Kõik",
+  "TicketFilters.OpenTickets": "Avage piletid",
+  "TicketFilters.Closed": "Closed",
+  "TicketFilters.Assigned": "Määratud",
+  "TicketFilters.InProgress": "Käimas",
+  "TicketFilters.New": "Uus",
+  "TicketFilters.Pending": "Ootel",
+  "TicketFilters.Reopened": "Uuesti avatud",
+  "TicketFilters.Resolved": "Lahendatud",
+  "TicketFilters.NoFound": "Pileteid ei leitud",
+
+
+  "SubmitRequest.NetworkAccount": "Uus võrgukonto",
+  "SubmitRequest.EmployeeSetup": "Uue töötaja seadistamine",
+  "SubmitRequest.DesktopPrinter": "Taotle lauaarvuti printerit",
+  "SubmitRequest.NewMailbox": "Taotle uut postkasti",
+
+
+  "CommonStrings.CreateTicket": "Loo pilet",
+  "CommonStrings.Cancel": "Tühista",
+  "CommonStrings.Submit": "Esita",
+  "CommonStrings.Select": "Valige",
+  "CommonStrings.Refresh": "Palun värskendage proovige uuesti",
+  "CommonStrings.ModalSubject": "Teema",
+  "CommonStrings.ModalStatus": "Staatus",
+  "CommonStrings.ModalComments": "Kommentaarid",
+  "CommonStrings.TicketNo": "Pilet nr",
+  "CommonStrings.Type": "Tüüp",
+  "CommonStrings.ShortDescription": "Lühike kirjeldus",
+  "CommonStrings.Classification": "Klassifikatsioon",
+  "CommonStrings.Description": "Kirjeldus",
+  "CommonStrings.CreatedDateTime": "Loodud kuupäev ja kellaaeg",
+  "CommonStrings.AssignedTo": "Määratud",
+  "CommonStrings.ChangeRequestID": "Muuda taotluse ID-d",
+  "CommonStrings.RequestorName": "Requestor Name",
+  "CommonStrings.ProsposedStartDateTime": "Kavandatud alguskuupäev ja -aeg",
+  "CommonStrings.ProsposedEndDateTime": "Kavandatud lõpu kuupäev ja kellaaeg",
+  "CommonStrings.ArticleID": "Artikli ID",
+  "CommonStrings.Title": "Pealkiri",
+  "CommonStrings.CreatedBy": "Loodud",
+  "CommonStrings.ApprovalID": "Kinnituse ID",
+  "CommonStrings.Deadline": "Tähtaeg",
+  "CommonStrings.Details": "Üksikasjad",
+
+
+  "MyTickets.Attachments": "Manused",
+  "MyTickets.NoAttachmentsFound": "Manuseid ei leitud",
+  "MyTickets.WithDraw": "Pilet välja võtta",
+  "MyTickets.Ticketwithdrawn": "Pilet on tagasi võetud",
+  "MyTickets.WriteDescription": "Kirjutage kirjeldus siia",
+  "MyTickets.MakeCommnet": "Tehke kommentaar",
+  "MyTickets.NextTicket": "Järgmine pilet",
+
+
+  "Approvals.ApprovalInformation": "Teave kinnitamise kohta", 
+  "Approvals.ApproveBtn": "Kinnita", 
+  "Approvals.DenyBtn": "Eita", 
+  "Approvals.NextApproval": "Järgmine heakskiit", 
+
+
+  "Surveys.NextSurvey": "Järgmine uuring",  
+  "Surveys.ProvideFeedback": "Palun andke tagasisidet",  
+
+
+  "SystemAlerts.WorkAround": "Töö ümber",
+  "SystemAlerts.Resolution": "Resolutsioon",
+  "SystemAlerts.AffectsMeTOO": "Mõjutab mind ka",
+  "SystemAlerts.NextAlert": "Järgmine hoiatus",
+
+
+  "Announcement.ModalNextAnnouncement": "Järgmine teadaanne",
+
+
+  "LinkedCI.Heading": "CI-ESEMED",
+  "LinkedCI.NextLinked": "Järgmine lingitud üksus",
+
+
+  "ComAround.ArticlePopular": "Populaarseim",
+  "ComAround.ArticleNews": "Uudised",
+  "ComAround.WasArticleHelpful": "Kas see artikkel oli abistav",
+  "ComAround.YesButton": "Jah",
+  "ComAround.NoButton": "Ei",
+  "ComAround.NextArticle": "Järgmine artikkel",
+  "ComAround.ModalReasonHeading": "Artikkel ei aidanud mind, sest",
+  "ComAround.ModalReason": "Palun valige oma põhjus",
+  "ComAround.ModalReasonVal1": "Sisu ei anna oodatud tulemust",
+  "ComAround.ModalReasonVal2": "Ma ei saa sisust aru",
+  "ComAround.ModalReasonVal3": "teave puudub",
+  "ComAround.ModalReasonTitle": "Pealkiri",
+  "ComAround.ModalReasonEmail": "E-post",
+  "ComAround.ModalReasonFeedback": "Tagasiside",
+  "ComAround.ModalReasonError": "Valige põhjus",
+  "ComAround.ModalReasonTitleError": "Sisestage pealkiri",
+  "ComAround.ModalReasonEmailError": "Sisestage kehtiv e-posti aadress",
+  "ComAround.ModalReasonFeedbackError": "Tagasisidet andma"
+}

@@ -1,0 +1,147 @@
+{
+  "Login.SignIn": "Log ind",
+  "Login.Username": "brugernavn",
+  "Login.Password": "adgangskode",
+  "Login.Provide": "Giv venligst ",
+  "Login.ForgotPassword": "Glemt kodeord",
+  "Login.Or": "ELLER",
+  "Login.LoginWindows": "Log ind med Windows",
+  "Login.LoginSAML": "Log ind med SAML",
+
+
+  "Navigation.Home": "Hjem",
+  "Navigation.MyTickets": "Mine billetter",
+  "Navigation.PendingApprovals": "Afventende godkendelser",
+  "Navigation.Surveys": "Undersøgelser",
+  "Navigation.SystemAlerts": "Systemadvarsler",
+  "Navigation.Announcements": "Meddelelser",
+  "Navigation.LinkedCi": "Tilknyttede CI-poster",
+  "Navigation.ComAround": "ComAround",
+  "Navigation.Incident": "Utilsigtet hændelse",
+  "Navigation.KnowledgeArticles": "Videnartikler",
+  "Navigation.SoftwareCatalog": " Softwarelicens",
+
+  "Header.Welcome": "Velkommen til",
+  "Header.Portal": "Selvbetjeningsportal",
+  "Header.HelpfulArticles": "Nyttige artikler",
+  "Header.MayHelp": "Hvordan kan vi hjælpe dig",
+  "Header.SubmitRequest": "Send anmodning",
+
+
+  "HeaderDropdown.Profile": "Profil",
+  "HeaderDropdown.Language": "Sprog",
+  "HeaderDropdown.LanguageEng": "engelsk",
+  "HeaderDropdown.LanguageGer": "tysk",
+  "HeaderDropdown.LanguageFre": "fransk",
+  "HeaderDropdown.LanguageDan": "dansk",
+  "HeaderDropdown.LanguageEst": "Estisk",
+  "HeaderDropdown.LanguageIta": "Italiensk",
+  "HeaderDropdown.LanguagePor": "Portugiser",
+  "HeaderDropdown.LanguageSwe": "Svensk",
+  "HeaderDropdown.LanguageFni": "Finsk",
+  "HeaderDropdown.Logout": "Log ud",
+
+
+  "Dashboard.MyItems": "MINE VARER",
+  "Dashboard.SeeAll": "Se alt",
+  "Dashboard.OpenTickets": "Åbn billetter",
+  "Dashboard.MyOpenTickets": "Mine åbne billetter",
+  "Dashboard.CloseTickets": "Luk billetter",
+
+
+  "TicketFilters.All": "Alle",
+  "TicketFilters.OpenTickets": "Åbn billetter",
+  "TicketFilters.Closed": "Lukket",
+  "TicketFilters.Assigned": "Tildelt",
+  "TicketFilters.InProgress": "I gang",
+  "TicketFilters.New": "New",
+  "TicketFilters.Pending": "Verserende",
+  "TicketFilters.Reopened": "Reopened",
+  "TicketFilters.Resolved": "Løst",
+  "TicketFilters.NoFound": "Ingen billetter fundet",
+
+
+  "SubmitRequest.NetworkAccount": "Ny netværkskonto",
+  "SubmitRequest.EmployeeSetup": "Ny medarbejderopsætning",
+  "SubmitRequest.DesktopPrinter": "Anmod om skrivebordsprinter",
+  "SubmitRequest.NewMailbox": "Anmod om ny postkasse",
+
+
+  "CommonStrings.CreateTicket": "Opret billet",
+  "CommonStrings.Cancel": "Afbestille",
+  "CommonStrings.Submit": "Indsend",
+  "CommonStrings.Select": "Select",
+  "CommonStrings.Refresh": "Opdater venligst igen",
+  "CommonStrings.ModalSubject": "Emne",
+  "CommonStrings.ModalStatus": "Status",
+  "CommonStrings.ModalComments": "Kommentarer",
+  "CommonStrings.TicketNo": "Billet nr",
+  "CommonStrings.Type": "Type",
+  "CommonStrings.ShortDescription": "Kort beskrivelse",
+  "CommonStrings.Classification": "Klassifikation",
+  "CommonStrings.Description": "Beskrivelse",
+  "CommonStrings.CreatedDateTime": "Oprettet dato og tid",
+  "CommonStrings.AssignedTo": "Tildelt",
+  "CommonStrings.ChangeRequestID": "Skift anmodnings-id",
+  "CommonStrings.RequestorName": "Ansøgerens navn",
+  "CommonStrings.ProsposedStartDateTime": "Foreslået startdato og -tid",
+  "CommonStrings.ProsposedEndDateTime": "Foreslået slutdato og tid",
+  "CommonStrings.ArticleID": "Artikel-ID",
+  "CommonStrings.Title": "Titel",
+  "CommonStrings.CreatedBy": "Lavet af",
+  "CommonStrings.ApprovalID": "Godkendelses-id",
+  "CommonStrings.Deadline": "Deadline",
+  "CommonStrings.Details": "detaljer",
+
+
+  "MyTickets.Attachments": "Vedhæftede filer",
+  "MyTickets.NoAttachmentsFound": "Ingen vedhæftede filer fundet",
+  "MyTickets.WithDraw": "Træk billet ud",
+  "MyTickets.Ticketwithdrawn": "Billetten er trukket tilbage",
+  "MyTickets.WriteDescription": "Skriv beskrivelse her",
+  "MyTickets.MakeCommnet": "Lav en kommentar",
+  "MyTickets.NextTicket": "Næste billet",
+
+
+  "Approvals.ApprovalInformation": "Godkendelsesoplysninger", 
+  "Approvals.ApproveBtn": "Approve", 
+  "Approvals.DenyBtn": "Deny", 
+  "Approvals.NextApproval": "Næste godkendelse", 
+
+
+  "Surveys.NextSurvey": "Næste undersøgelse",  
+  "Surveys.ProvideFeedback": "Giv feedback",  
+
+
+  "SystemAlerts.WorkAround": "Arbejd rundt",
+  "SystemAlerts.Resolution": "Løsning",
+  "SystemAlerts.AffectsMeTOO": "Påvirker mig også",
+  "SystemAlerts.NextAlert": "Næste alarm",
+
+
+  "Announcement.ModalNextAnnouncement": "Næste meddelelse",
+
+
+  "LinkedCI.Heading": "CI-VARER",
+  "LinkedCI.NextLinked": "Næste sammenkædede vare",
+
+
+  "ComAround.ArticlePopular": "Mest populære",
+  "ComAround.ArticleNews": "Nyheder",
+  "ComAround.WasArticleHelpful": "Var denne artikel til hjælp",
+  "ComAround.YesButton": "Ja",
+  "ComAround.NoButton": "Ingen",
+  "ComAround.NextArticle": "Næste artikel",
+  "ComAround.ModalReasonHeading": "Artiklen hjalp mig ikke fordie",
+  "ComAround.ModalReason": "Vælg din grund",
+  "ComAround.ModalReasonVal1": "Indholdet giver ikke et forventet resultat",
+  "ComAround.ModalReasonVal2": "Jeg forstår ikke indholdet",
+  "ComAround.ModalReasonVal3": "oplysninger mangler",
+  "ComAround.ModalReasonTitle": "Titel",
+  "ComAround.ModalReasonEmail": "E-mail",
+  "ComAround.ModalReasonFeedback": "Feedback",
+  "ComAround.ModalReasonError": "Vælg Årsag",
+  "ComAround.ModalReasonTitleError": "Indtast venligst titel",
+  "ComAround.ModalReasonEmailError": "Indtast gyldig e-mail",
+  "ComAround.ModalReasonFeedbackError": "Give feedback"
+}

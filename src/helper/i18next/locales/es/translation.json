@@ -1,0 +1,149 @@
+{
+  "Login.SignIn": "Logga in",
+  "Login.Username": "Användarnamn",
+  "Login.Password": "Lösenord",
+  "Login.Provide": "Vänligen ge ",
+  "Login.ForgotPassword": "Glömt ditt lösenord",
+  "Login.Or": "ELLER",
+  "Login.LoginWindows": "Logga in med Windows",
+  "Login.LoginSAML": "Logga in med SAML",
+
+
+  "Navigation.Home": "Hem",
+  "Navigation.MyTickets": "Mina biljetter",
+  "Navigation.PendingApprovals": "Väntande godkännanden",
+  "Navigation.Surveys": "Undersökningar",
+  "Navigation.SystemAlerts": "Systemvarningar",
+  "Navigation.Announcements": "Tillkännagivanden",
+  "Navigation.LinkedCi": "Länkade CI-objekt",
+  "Navigation.ComAround": "ComAround",
+  "Navigation.Incident": "Incident",
+  "Navigation.KnowledgeArticles": "ConocimientoArtículos",
+  "Navigation.SoftwareLicense": "Programvarukatalog",
+
+
+  "Header.Welcome": "Välkommen till",
+  "Header.Portal": "Självbetjäningsportal",
+  "Header.HelpfulArticles": "Nyttiga artiklar",
+  "Header.MayHelp": "Hur kan vi hjälpa dig",
+  "Header.SubmitRequest": "Skicka förfrågan",
+
+
+  "HeaderDropdown.Profile": "Profil",
+  "HeaderDropdown.Language": "Språk",
+  "HeaderDropdown.LanguageEng": "engelsk",
+  "HeaderDropdown.LanguageGer": "tysk",
+  "HeaderDropdown.LanguageFre": "Franska",
+  "HeaderDropdown.LanguageDan": "Danska",
+  "HeaderDropdown.LanguageEst": "Estniska",
+  "HeaderDropdown.LanguageIta": "Italienska",
+  "HeaderDropdown.LanguagePor": "Portugisiska",
+  "HeaderDropdown.LanguageSwe": "svenska",
+  "HeaderDropdown.LanguageFni": "Finska",
+  "HeaderDropdown.Logout": "Logga ut",
+
+
+  "Dashboard.MyItems": "MINA SAKER",
+  "Dashboard.SeeAll": "Se allt",
+  "Dashboard.OpenTickets": "Öppna biljetter",
+  "Dashboard.MyOpenTickets": "Mina öppna biljetter",
+  "Dashboard.CloseTickets": "Stäng biljetter",
+
+
+  "TicketFilters.All": "Allt",
+  "TicketFilters.OpenTickets": "Öppna biljetter",
+  "TicketFilters.Closed": "Stängd",
+  "TicketFilters.Assigned": "Tilldelad",
+  "TicketFilters.InProgress": "Pågående",
+  "TicketFilters.New": "New",
+  "TicketFilters.Pending": "I väntan på",
+  "TicketFilters.Reopened": "Öppnade igen",
+  "TicketFilters.Resolved": "Löst",
+  "TicketFilters.NoFound": "Inga biljetter hittades",
+
+
+  "SubmitRequest.NetworkAccount": "Nytt nätverkskonto",
+  "SubmitRequest.EmployeeSetup": "Ny anställd",
+  "SubmitRequest.DesktopPrinter": "Begär skrivbordsskrivare",
+  "SubmitRequest.NewMailbox": "Begär ny brevlåda",
+
+
+
+  "CommonStrings.CreateTicket": "Skapa biljett",
+  "CommonStrings.Cancel": "Annullera",
+  "CommonStrings.Submit": "Skicka in",
+  "CommonStrings.Select": "Välj",
+  "CommonStrings.Refresh": "Please Refresh Try Aagin",
+  "CommonStrings.ModalSubject": "Ämne",
+  "CommonStrings.ModalStatus": "Status",
+  "CommonStrings.ModalComments": "Kommentarer",
+  "CommonStrings.TicketNo": "Biljett nr",
+  "CommonStrings.Type": "Typ",
+  "CommonStrings.ShortDescription": "kort beskrivning",
+  "CommonStrings.Classification": "Klassificering",
+  "CommonStrings.Description": "Beskrivning",
+  "CommonStrings.CreatedDateTime": "Skapat datum och tid",
+  "CommonStrings.AssignedTo": "Tilldelats",
+  "CommonStrings.ChangeRequestID": "Ändra begäran-ID",
+  "CommonStrings.RequestorName": "Namn på förfrågan",
+  "CommonStrings.ProsposedStartDateTime": "Föreslagen startdatum och tid",
+  "CommonStrings.ProsposedEndDateTime": "Föreslagen slutdatum och tid",
+  "CommonStrings.ArticleID": "Artikel-ID",
+  "CommonStrings.Title": "Titel",
+  "CommonStrings.CreatedBy": "Skapad av",
+  "CommonStrings.ApprovalID": "Approval ID",
+  "CommonStrings.Deadline": "Deadline",
+  "CommonStrings.Details": "Detaljer",
+
+
+  "MyTickets.Attachments": "Bilagor",
+  "MyTickets.NoAttachmentsFound": "Inga bilagor hittades",
+  "MyTickets.WithDraw": "Dra ut biljett",
+  "MyTickets.Ticketwithdrawn": "Biljetten har dragits tillbaka",
+  "MyTickets.WriteDescription": "Skriv beskrivning här",
+  "MyTickets.MakeCommnet": "Gör en kommentar",
+  "MyTickets.NextTicket": "Nästa biljett",
+
+
+  "Approvals.ApprovalInformation": "Godkännandeinformation", 
+  "Approvals.ApproveBtn": "Godkänna", 
+  "Approvals.DenyBtn": "Förneka", 
+  "Approvals.NextApproval": "Nästa godkännande", 
+
+
+  "Surveys.NextSurvey": "Nästa undersökning",  
+  "Surveys.ProvideFeedback": "Vänligen ge feedback",  
+
+
+  "SystemAlerts.WorkAround": "Jobba runt",
+  "SystemAlerts.Resolution": "Upplösning",
+  "SystemAlerts.AffectsMeTOO": "Påverkar mig också",
+  "SystemAlerts.NextAlert": "Nästa varning",
+
+
+  "Announcement.ModalNextAnnouncement": "Nästa tillkännagivande",
+
+
+  "LinkedCI.Heading": "CI-PUNKTER",
+  "LinkedCI.NextLinked": "Nästa länkade artikel",
+
+
+  "ComAround.ArticlePopular": "Mest populär",
+  "ComAround.ArticleNews": "Nyheter",
+  "ComAround.WasArticleHelpful": "Var den här artikeln hjälpsam",
+  "ComAround.YesButton": "Ja",
+  "ComAround.NoButton": "Nej",
+  "ComAround.NextArticle": "Nästa artikel",
+  "ComAround.ModalReasonHeading": "Artikeln hjälpte mig inte för",
+  "ComAround.ModalReason": "Välj din anledning",
+  "ComAround.ModalReasonVal1": "Innehållet ger inte ett förväntat resultat",
+  "ComAround.ModalReasonVal2": "Jag förstår inte innehållet",
+  "ComAround.ModalReasonVal3": "information saknas",
+  "ComAround.ModalReasonTitle": "Titel",
+  "ComAround.ModalReasonEmail": "E-post",
+  "ComAround.ModalReasonFeedback": "Respons",
+  "ComAround.ModalReasonError": "Välj orsak",
+  "ComAround.ModalReasonTitleError": "Ange titel",
+  "ComAround.ModalReasonEmailError": "Ange en giltig e-postadress",
+  "ComAround.ModalReasonFeedbackError": "Ge feedback"
+}
